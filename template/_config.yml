@@ -1,0 +1,10 @@
+theme: jekyll-theme-primer
+title: Recommender systems
+description: Recommend the best restaurants!
+baseurl:
+repository: xuwd11/xuwd11.github.io
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
